@@ -1,8 +1,6 @@
 # advent-of-code-2016
 
-I completed Advent of Code 2016 in late 2018.
-
-I have complete the other 4 years, too:
+[Advent of Code](http://adventofcode.com) is yearly challenge of 25 programming puzzles. I learned about it in July 2018.
 
 + [2015](https://github.com/RobinRH/advent-of-code-2015)
 + [2016](https://github.com/RobinRH/advent-of-code-2016)
