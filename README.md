@@ -25,12 +25,12 @@ Day | Description
 [17](https://github.com/RobinRH/advent-of-code-2016/tree/master/day17) | MD5, 2-D grid
 [18](https://github.com/RobinRH/advent-of-code-2016/tree/master/day18) | 2-D grid manipulation, at scale
 [19](https://github.com/RobinRH/advent-of-code-2016/tree/master/day19) | Doubly-linked circular list
-[20](https://github.com/RobinRH/advent-of-code-2016/tree/master/day20) | 
-[21](https://github.com/RobinRH/advent-of-code-2016/tree/master/day21) | 
-[22](https://github.com/RobinRH/advent-of-code-2016/tree/master/day22) | 
-[23](https://github.com/RobinRH/advent-of-code-2016/tree/master/day23) | 
-[24](https://github.com/RobinRH/advent-of-code-2016/tree/master/day24) | 
-[25](https://github.com/RobinRH/advent-of-code-2016/tree/master/day25) | 
+[20](https://github.com/RobinRH/advent-of-code-2016/tree/master/day20) | Overlapping intervals
+[21](https://github.com/RobinRH/advent-of-code-2016/tree/master/day21) | Instruction codes to scramble strings
+[22](https://github.com/RobinRH/advent-of-code-2016/tree/master/day22) | Search
+[23](https://github.com/RobinRH/advent-of-code-2016/tree/master/day23) | Opcodes
+[24](https://github.com/RobinRH/advent-of-code-2016/tree/master/day24) | A* search
+[25](https://github.com/RobinRH/advent-of-code-2016/tree/master/day25) | Opcodes
 
 
 
